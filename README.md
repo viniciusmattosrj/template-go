@@ -3,15 +3,14 @@
 ## Requerimentos
 
 - Docker e docker-compose
-- Go &ge; 1.13.8
+- Go &ge; 1.16.0
 
 #### Tecnologias Utilizadas
 
-* Composer
-* Code style: GoWay
-* Restful ou GraphQL 
-* Postgres ou MongoDB 
-
+- Composer
+- Code style: GoWay
+- Restful ou GraphQL
+- Postgres ou MongoDB
 
 #### Sobre
 
